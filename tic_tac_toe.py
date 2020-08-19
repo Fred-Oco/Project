@@ -98,4 +98,3 @@ if peace is False:
         print('You lose')
 else:
     print('Peace')
-
